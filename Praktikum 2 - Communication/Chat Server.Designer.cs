@@ -163,15 +163,16 @@
             // txtPesan
             // 
             this.txtPesan.Location = new System.Drawing.Point(227, 290);
+            this.txtPesan.Multiline = true;
             this.txtPesan.Name = "txtPesan";
-            this.txtPesan.Size = new System.Drawing.Size(294, 20);
+            this.txtPesan.Size = new System.Drawing.Size(294, 31);
             this.txtPesan.TabIndex = 5;
             // 
             // btnSend
             // 
             this.btnSend.Location = new System.Drawing.Point(527, 290);
             this.btnSend.Name = "btnSend";
-            this.btnSend.Size = new System.Drawing.Size(75, 23);
+            this.btnSend.Size = new System.Drawing.Size(75, 31);
             this.btnSend.TabIndex = 6;
             this.btnSend.Text = "Send";
             this.btnSend.UseVisualStyleBackColor = true;
@@ -197,7 +198,7 @@
             // 
             this.btnSerialCom.Location = new System.Drawing.Point(12, 290);
             this.btnSerialCom.Name = "btnSerialCom";
-            this.btnSerialCom.Size = new System.Drawing.Size(200, 23);
+            this.btnSerialCom.Size = new System.Drawing.Size(200, 31);
             this.btnSerialCom.TabIndex = 8;
             this.btnSerialCom.Text = "Serial Communication";
             this.btnSerialCom.UseVisualStyleBackColor = true;
@@ -207,7 +208,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(614, 328);
+            this.ClientSize = new System.Drawing.Size(614, 343);
             this.Controls.Add(this.btnSerialCom);
             this.Controls.Add(this.txtChat);
             this.Controls.Add(this.btnSend);
