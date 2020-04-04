@@ -1,0 +1,10 @@
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\bin\Debug\Praktikum 2 - Communication.exe.config
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\obj\Debug\Praktikum 2 - Communication.csprojResolveAssemblyReference.cache
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\obj\Debug\Praktikum_2___Communication.Form1.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\obj\Debug\Praktikum_2___Communication.Properties.Resources.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\obj\Debug\Praktikum 2 - Communication.csproj.GenerateResource.Cache
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\bin\Debug\Praktikum 2 - Communication.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\bin\Debug\Praktikum 2 - Communication.pdb
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\obj\Debug\Praktikum 2 - Communication.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\obj\Debug\Praktikum 2 - Communication.pdb
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 4\Sistem Terdistribusi\Praktikum\Praktikum 2 - Communication\Praktikum 2 - Communication\obj\Debug\Praktikum_2___Communication.Serial_Communication.resources
